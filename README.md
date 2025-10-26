@@ -149,6 +149,6 @@ Upon completion, you will have:
 
 ---
 
-**Author:** AYUSMITA DAS
-**Role:** Azure Infrastructure & DevOps Engineer  
+**Author:** AYUSMITA DAS <br>
+**Role:** Azure Infrastructure & DevOps Engineer <br>
 **Project Type:** Hands-on Lab | Cloud & Kubernetes | DevOps Portfolio
